@@ -6,7 +6,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=jonanathan-t&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F53228019%3Fu%3D35e462a7ca7106e481587ec2176179475defde85%26v%3D4" alt="jonanathan-t hero visual" />
 </p>
 
-<h1>Jonathan</h1>
+<h1>TOTOZAMANY Jonathan</h1>
 <p><b>Freelance developer or consultant</b></p>
 
 </div>
